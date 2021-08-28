@@ -1,4 +1,4 @@
-# Question Answernig Model
+# Question Answering Model
 
 This is an API service for `ModelQA` of `coeus`
 
