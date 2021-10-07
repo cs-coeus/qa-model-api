@@ -12,7 +12,7 @@ class ModelQA(ModelInterface):
             'question-answering',
             device=ModelQA.device,
             framework=framework)
-        ModelQA.ANSWER_THRESHOLD = 0.8
+        ModelQA.ANSWER_THRESHOLD = 0.9
 
     @staticmethod
     def QA(original, keyword, questions):
